@@ -1,14 +1,10 @@
 name: gg_midi_vars
-description: A starting point for Dart libraries or applications.
+description: This packages defines the MIDI variables particularly for MIDI note names and control change names.
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/inlavigo/gg_midi_vars
 
 environment:
-  sdk: ^3.4.0-80.0.dev
-
-# Add regular dependencies here.
-dependencies:
-  # path: ^1.8.0
+  sdk: ^3.2.0
 
 dev_dependencies:
   args: ^2.4.2

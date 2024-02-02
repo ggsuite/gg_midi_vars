@@ -3,6 +3,5 @@
 /// More dartdocs go here.
 library;
 
-export 'src/gg_midi_vars_base.dart';
-
-// TODO: Export any libraries intended for clients of this package.
+export 'src/midi_controllers.dart';
+export 'src/midi_note_numbers.dart';
