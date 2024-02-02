@@ -6,4 +6,5 @@ void main() {
 
   // Use MIDI controllers intuitively
   print(MidiControllers.allNotesOff); // 123
+  print(MidiControllers.toStr(MidiControllers.allNotesOff)); // "AllNotesOff"
 }
