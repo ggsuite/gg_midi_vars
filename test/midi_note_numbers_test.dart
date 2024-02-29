@@ -55,5 +55,10 @@ void main() {
     test('toString', () {
       expect(MidiNoteNumbers.c4.toString(), '60');
     });
+
+    test('midiNoteNumbersExample', () {
+      final e = midiNoteNumbersExample;
+      expect(e, isNotNull);
+    });
   });
 }

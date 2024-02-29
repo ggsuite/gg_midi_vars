@@ -566,3 +566,6 @@ class MidiNoteNumbers {
     bFlat8,
   ];
 }
+
+/// Example of how to use the MidiNoteNumbers class
+MidiNoteNumbers get midiNoteNumbersExample => MidiNoteNumbers();
