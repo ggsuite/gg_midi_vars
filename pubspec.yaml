@@ -1,6 +1,6 @@
 name: gg_midi_vars
 description: This packages defines the MIDI variables particularly for MIDI note names and control change names.
-version: 1.0.3
+version: 1.0.4
 repository: https://github.com/inlavigo/gg_midi_vars
 
 environment:
