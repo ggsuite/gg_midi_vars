@@ -315,6 +315,9 @@ class MidiNoteNumbers {
     g8,
     a8,
     bFlat8,
+
+    // Octave 9
+    c9,
   ];
 
   static const cMajor = <int>[
@@ -398,6 +401,9 @@ class MidiNoteNumbers {
     g8,
     a8,
     b8,
+
+    // Octave 9
+    c9,
   ];
 
   static const cSharpMajor = <int>[
@@ -481,6 +487,9 @@ class MidiNoteNumbers {
     gSharp8,
     aSharp8,
     bSharp8,
+
+    // Octave 9
+    cSharp9,
   ];
 
   static const cFlatMajor = <int>[
@@ -564,6 +573,9 @@ class MidiNoteNumbers {
     gFlat8,
     aFlat8,
     bFlat8,
+
+    // Octave 9
+    cFlat9,
   ];
 }
 
